@@ -4,8 +4,6 @@ import java.util.List;
 
 /*****
  * @Author:  PKXING
- * @Date:  PKXING/23 15:11
- * @Description: com.itheima.code.util
  *  Swagger请求路径配置
  ****/
 public class SwaggerPath {
