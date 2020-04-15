@@ -4,8 +4,6 @@ import java.util.List;
 
 /*****
  * @Author:  PKXING
- * @Date:  PKXING 15:29
- * @Description: com.itheima.code.util
  *  javabean信息
  ****/
 public class SwaggerModel {
