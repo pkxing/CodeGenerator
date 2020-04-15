@@ -2,8 +2,6 @@ package com.pkx.code.swagger;
 
 /*****
  * @Author:  PKXING
- * @Date:  PKXING/23 14:51
- * @Description: com.itheima.code.util
  *  响应数据配置
  ****/
 public class SwaggerResponse {
