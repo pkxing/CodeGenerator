@@ -2,8 +2,6 @@ package com.pkx.code.swagger;
 
 /*****
  * @Author:  PKXING
- * @Date:  PKXING 15:35
- * @Description: com.itheima.code.util
  *  生成JavaBean的属性配置
  ****/
 public class SwaggerModelProperties {
