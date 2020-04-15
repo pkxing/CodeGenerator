@@ -4,8 +4,6 @@ import java.util.List;
 
 /*****
  * @Author:  PKXING
- * @Date:  PKXING/23 14:25
- * @Description: com.itheima.code.util
  ****/
 public class SwaggerMethod {
 
